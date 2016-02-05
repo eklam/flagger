@@ -1,0 +1,10 @@
+.idea/*
+
+*.pyc
+*.pickle
+
+*Config.py
+
+access_token.txt
+sample_data/*
+!sample_data/30478_questions.csv

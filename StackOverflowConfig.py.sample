@@ -1,0 +1,6 @@
+app_key = 'app-key-goes-here'
+client_id = 'client-id-goes-here'
+auth_expiry_scope = 'no_expiry'
+access_token = None
+auth_return_uri = 'http://localhost:8000/login_success'
+auth_access_token_file_path = 'access_token.txt'
